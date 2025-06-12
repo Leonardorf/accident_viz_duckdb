@@ -1,0 +1,4 @@
+# Ignorar entornos virtuales dentro de cualquier subcarpeta
+**/.venv/
+**/.venv/*
+notebooks/.venv/
